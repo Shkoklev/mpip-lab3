@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab Pizzas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_places_api_base_url">https://maps.googleapis.com/maps/api/place/nearbysearch/</string>
+</resources>
